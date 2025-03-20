@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { HiMenu } from 'react-icons/hi';
 
 interface NavbarProps {
   activeSection: string;
@@ -67,7 +68,7 @@ const Navbar = ({ activeSection }: NavbarProps) => {
             className="md:hidden text-neutral-800"
             onClick={toggleMobileMenu}
           >
-            <i className="fas fa-bars text-xl"></i>
+            <HiMenu className="text-2xl" />
           </button>
         </div>
         
