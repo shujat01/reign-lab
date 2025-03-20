@@ -1,3 +1,5 @@
+import { FaTwitter, FaLinkedin, FaEnvelope } from 'react-icons/fa';
+
 const Footer = () => {
   return (
     <footer className="bg-neutral-800 text-white py-12">
@@ -8,13 +10,13 @@ const Footer = () => {
             <p className="mb-4">REsearch in Integrative GeNomics of hypoxia</p>
             <div className="flex space-x-4">
               <a href="#" className="text-white hover:text-accent transition-colors" aria-label="Twitter">
-                <i className="fab fa-twitter"></i>
+                <FaTwitter className="text-xl" />
               </a>
               <a href="#" className="text-white hover:text-accent transition-colors" aria-label="LinkedIn">
-                <i className="fab fa-linkedin"></i>
+                <FaLinkedin className="text-xl" />
               </a>
               <a href="#" className="text-white hover:text-accent transition-colors" aria-label="Email">
-                <i className="fas fa-envelope"></i>
+                <FaEnvelope className="text-xl" />
               </a>
             </div>
           </div>

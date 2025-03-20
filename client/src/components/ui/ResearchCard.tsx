@@ -1,3 +1,5 @@
+import { HiArrowRight } from 'react-icons/hi';
+
 interface ResearchCardProps {
   title: string;
   description: string;
@@ -14,9 +16,9 @@ const ResearchCard = ({ title, description, bgColor, link }: ResearchCardProps) 
         <p className="text-neutral-800 mb-4">{description}</p>
         <a 
           href={link} 
-          className="text-primary font-medium hover:text-primary-light transition-colors"
+          className="text-primary font-medium hover:text-primary-light transition-colors inline-flex items-center"
         >
-          Learn more <i className="fas fa-arrow-right ml-1"></i>
+          Learn more <HiArrowRight className="ml-1" />
         </a>
       </div>
     </div>
