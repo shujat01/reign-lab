@@ -1,0 +1,74 @@
+
+i want you to create a responsive and dynamic website for REIGN lab
+
+it should be a one page website with followiing navigation - Home,  Research area, People, Publications ,News and Events, Resources ,Collaborators and funding sources ,and clicking on each menu  should take me to that respective section of the same page   given below is how each section should look like  
+1- Home 
+REIGN lab
+REsearch in Integrative GeNomics of hypoxia it should also contain an image , which stays fixed when we are scrolling though the page andother contents should move 
+
+
+2-  Research area
+
+  a. Physiological genomics of hypoxia
+
+  Integrative multi-omics to understand hypoxia response in health and disease.
+
+  b. Modelling hypoxia under experimental conditions
+
+ There is a growing recognition that intermittent or continuous hypoxia can be beneficial hypoxia.....
+  However, translational aspects of these findings pose challenges as the response to hypoxia is complex...
+  Animal models have played a key role in understanding the .......... that can be extrapolated to humans. Our laboratory also attempts to standardize 
+  protocols 
+   
+   c. Genetic landscape for cardiovascular disorders
+
+    Shraddha work
+
+
+ 2-  People
+    a. Aastha Mishra
+    Manzoor Ali
+    Raushni 
+    Swati
+    Kanika
+    Shraddha
+    Krishna
+    Arun
+    Mohit
+    Kaushlendra
+    Subhash
+
+    Lab alumni
+    Postgraduate students
+    Prachi
+   Abhishek
+   Tapas
+
+   Graduate students
+   Puru
+   Aishwarya
+
+the people section should also have images of that person and clicking on the person should take to their respective about section
+
+
+3-  Publications
+
+   Citations - https://scholar.google.co.in/citations?user=WWeXX48AAAAJ&hl=en
+
+4 -  News and Events
+
+   2021 - welcome Manzoor, Raushni
+   2022 - welcome Kanika, Swati
+   2023 - Welcome Krishna & Shraddha & aRUN, congratulation Manzoor and Swati, SRF
+   2024 - Congratulations lab for AJP paper, Clinical science paper ; LEH SYMPSOIUM
+
+5-  Resources
+
+6 -  Collaborators and funding sources
+
+
+
+In the last: 
+Equity, Diversity and inclusion - Keep this line to the website some where - Hypoxia-related studies are the center of our research, and both male and female researchers contribute to the laboratory. We respect and honor the diversity in our community that includes but is not limited to race, ethnicity, national origin, gender identity, gender expression, sexual orientation, age, disability, socio-economic status, class, and religion.
+
+
