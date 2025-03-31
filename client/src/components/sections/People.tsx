@@ -1,5 +1,5 @@
 import TeamMemberCard from '../ui/TeamMemberCard';
-import { currentMembers, postgraduateAlumni, graduateAlumni } from '@/data/teamData';
+import { currentMembers, Trainee, Alumni } from '@/data/teamData';
 
 const People = () => {
   return (
@@ -22,16 +22,11 @@ const People = () => {
             ))}
           </div>
         </div>
-        
-        {/* Lab Alumni */}
+
         <div>
-          <h3 className="text-2xl font-heading font-semibold mb-8 text-center md:text-left">Lab Alumni</h3>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-            {/* Postgraduate Students */}
-            <div>
-              <h4 className="text-xl font-heading font-semibold mb-4">Postgraduate Students</h4>
+              <h4 className="text-xl font-heading font-semibold mb-4">Trainee</h4>
               <ul className="space-y-2 bg-white p-6 rounded-lg shadow-sm">
-                {postgraduateAlumni.map((alumnus) => (
+                {Trainee.map((alumnus) => (
                   <li key={alumnus.id} className="flex items-center">
                     <i className="fas fa-user-graduate text-primary mr-3"></i>
                     <span>{alumnus.name}</span>
@@ -39,12 +34,11 @@ const People = () => {
                 ))}
               </ul>
             </div>
-            
-            {/* Graduate Students */}
+        
             <div>
-              <h4 className="text-xl font-heading font-semibold mb-4">Graduate Students</h4>
+              <h4 className="text-xl font-heading font-semibold mb-4">Alumni</h4>
               <ul className="space-y-2 bg-white p-6 rounded-lg shadow-sm">
-                {graduateAlumni.map((alumnus) => (
+                {Alumni.map((alumnus) => (
                   <li key={alumnus.id} className="flex items-center">
                     <i className="fas fa-user-graduate text-primary mr-3"></i>
                     <span>{alumnus.name}</span>
@@ -52,8 +46,7 @@ const People = () => {
                 ))}
               </ul>
             </div>
-          </div>
-        </div>
+        
       </div>
     </section>
   );

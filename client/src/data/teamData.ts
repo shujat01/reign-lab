@@ -123,13 +123,16 @@ export const currentMembers = [
   }
 ];
 
-export const postgraduateAlumni = [
-  { id: 1, name: 'Prachi' },
-  { id: 2, name: 'Abhishek' },
-  { id: 3, name: 'Tapas' }
+export const Trainee = [
+  { id: 1, name: 'Shujjad Ali' },
+  { id: 2, name: 'Vishnu s. Pillai' }
 ];
 
-export const graduateAlumni = [
-  { id: 1, name: 'Puru' },
-  { id: 2, name: 'Aishwarya' }
+export const Alumni = [
+  { id: 1, name: 'Tapas Kudas' },
+  { id: 2, name: 'Puru Manjrey'},
+  { id: 3, name: 'Prachi Sehgal'},
+  { id:4,name : 'Abhishek Parihar'},
+  { id:5,name : 'Gayatri Mann'},
+  { id:6,name :'Aishwarya Saxena'},
 ];
