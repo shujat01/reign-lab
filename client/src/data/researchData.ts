@@ -15,8 +15,8 @@
     },
     {
       id: 2,
-      title: 'this is temporary',
-      fullDescription: `There is a growing recognition that intermittent hypoxia can be beneficial by enhancing cardiopulmonary health and improving overall oxygenation capacity. However, translational aspects of these findings pose challenges as the cellular responses to hypoxia involve complex signaling pathways. Animal models have played a key role in understanding the beneficial effects of intermittent hypoxic exposure in complications, such as stroke and cardiorespiratory disorders, that can be extrapolated to humans; however, the protocol for this approach needs to be properly standardized before being implemented in human subjects. Our laboratory attempts to standardize protocols in murine models receiving such therapeutic hypoxic exposures that can further their clinical application in normobaric hypoxic disorders.`,
+      title: 'Circulating cell-free DNA Fragmentomics: A non-invasive method for high-resolution biological signals',
+      fullDescription: `Fragmentomics profiling of circulating cell-free (cf) DNA offers a promising and non-invasive approach to monitoring chromatin accessibility, genome dynamics, and disease-related biomarkers. With the advancements in analytics capabilities and cfDNA-based algorithms, mapping crucial information, such as nucleosome occupancy and epigenetic landscape around open chromatin regions (OCRs) from cfDNA reads, has become a reality. These OCRs can capture cellular turnover activity in response to diverse physiological and pathological conditions and translate these signals into cellular processes. Using cfDNA fragmentomics, our laboratory analyses its characteristics, such as genetic alterations, chromatin topology, fragment size distribution, end motif patterns, and tissue-specific signatures for biological insights.`,
       link: '#',
       image: 'https://images.unsplash.com/photo-1576086213369-97a306d36557?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=900&q=80'
     },
@@ -32,7 +32,7 @@
       title: 'Using hypoxia as a therapeutic approach in experimental settings',
       fullDescription: `There is a growing recognition that intermittent hypoxia can be beneficial by enhancing cardiopulmonary health and improving overall oxygenation capacity. However, translational aspects of these findings pose challenges as the cellular responses to hypoxia involve complex signaling pathways. Animal models have played a key role in understanding the beneficial effects of intermittent hypoxic exposure in complications, such as stroke and cardiorespiratory disorders, that can be extrapolated to humans; however, the protocol for this approach needs to be properly standardized before being implemented in human subjects. Our laboratory attempts to standardize protocols in murine models receiving such therapeutic hypoxic exposures that can further their clinical application in normobaric hypoxic disorders.`,
       link: '#',
-      image: '/images/research/hypoxia-model.svg'
+      image: 'https://images.unsplash.com/photo-1576086213369-97a306d36557?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80'
     }
   ];
 

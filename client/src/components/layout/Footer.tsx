@@ -15,7 +15,7 @@ const Footer = () => {
               <a href="#" className="text-white hover:text-accent transition-colors" aria-label="LinkedIn">
                 <FaLinkedin className="text-xl" />
               </a>
-              <a href="#" className="text-white hover:text-accent transition-colors" aria-label="Email">
+              <a href="mailto:aastha.mishra@igib.in" className="text-white hover:text-accent transition-colors" aria-label="Email">
                 <FaEnvelope className="text-xl" />
               </a>
             </div>
@@ -24,15 +24,23 @@ const Footer = () => {
           <div>
             <h4 className="text-xl font-heading font-semibold mb-4">Contact</h4>
             <address className="not-italic">
-              <p className="mb-2">Department of Molecular Biology</p>
-              <p className="mb-2">Institute of Biomedical Sciences</p>
+          
+              <a 
+                  href="mailto:aastha.mishra@igib.in" 
+                  className="hover:text-accent transition-colors"
+                >
+                 Dr. Aastha Mishra
+                </a>   
+                   
+              <p className="mb-2">Senior Scientist  ,Lab No. 509</p>
+              <p className="mb-2">CSIR - Institute of Genomics and Integrative Biology</p>
               <p className="mb-2">New Delhi, India</p>
               <p>
                 <a 
-                  href="mailto:contact@reignlab.org" 
+                  href="mailto:aastha.mishra@igib.in" 
                   className="hover:text-accent transition-colors"
                 >
-                  contact@reignlab.org
+                  aastha.mishra@igib.in
                 </a>
               </p>
             </address>
