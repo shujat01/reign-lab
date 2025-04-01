@@ -124,8 +124,8 @@ export const currentMembers = [
 ];
 
 export const Trainee = [
-  { id: 1, name: 'Shujjad Ali' },
-  { id: 2, name: 'Vishnu s. Pillai' }
+  { id: 1, name: 'Vishnu s. Pillai' },
+  { id: 2, name: 'Shujjad Ali' }
 ];
 
 export const Alumni = [
