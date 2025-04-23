@@ -4,7 +4,7 @@ const Hero = () => {
       id="home" 
       className="parallax h-screen-80 flex items-center relative" 
       style={{ 
-        backgroundImage: "url('https://images.unsplash.com/photo-1530973428-5bf2db2e4d71?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80')",
+        backgroundImage: "url('https://images.unsplash.com/photo-1745227041517-4bfc257c674f?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')",
         height: "80vh" 
       }}
     >

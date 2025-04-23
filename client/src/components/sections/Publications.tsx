@@ -28,6 +28,14 @@ const Publications = () => {
               <PublicationItem key={publication.id} {...publication} />
             ))}
           </ul>
+         
+          <div className="mb-8 text-center">
+          <a href="https://pubmed.ncbi.nlm.nih.gov/?term=aastha+mishra">
+            <i className="fas fa-external-link-alt mr-2"></i>
+            View all 
+          </a>
+        </div>
+
 
           <h3 className="text-xl font-heading font-semibold mt-12 mb-6">Book Chapters</h3>
           <ul className="space-y-4 list-none">
