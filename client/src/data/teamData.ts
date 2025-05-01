@@ -5,84 +5,78 @@ export const currentMembers = [
     id: 2,
     name: 'Manzoor Ali',
     role: 'Research Fellow',
-    image: 'https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80',
+    image: 'https://images.unsplash.com/photo-1745402867907-fbd24a8847f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     socialLinks: [
       { platform: 'LinkedIn', url: '#', icon: 'linkedin' },
       { platform: 'Email', url: '#', icon: 'email' },
-      { platform: 'Twitter', url: '#', icon: 'twitter' }
+     
     ]
   },
   {
     id: 3,
     name: 'Raushni Choudhary',
     role: 'PhD Student',
-    image: 'https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80',
+    image: 'https://images.unsplash.com/photo-1745480216244-0e560f0cbf43?q=80&w=3050&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     socialLinks: [
       { platform: 'LinkedIn', url: '#', icon: 'linkedin' },
       { platform: 'Email', url: '#', icon: 'email' },
-      { platform: 'Twitter', url: '#', icon: 'twitter' }
     ]
   },
   {
     id: 4,
     name: 'Swati Kumari',
     role: 'Research Assistant',
-    image: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80',
+    image: 'https://images.unsplash.com/photo-1745403302913-5f8993d589d0?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     socialLinks: [
       { platform: 'LinkedIn', url: '#', icon: 'linkedin' },
       { platform: 'Email', url: '#', icon: 'email' },
-      { platform: 'Twitter', url: '#', icon: 'twitter' }
     ]
   },
   {
     id: 5,
     name: 'Kanika Singh',
     role: 'PhD Student',
-    image: 'https://images.unsplash.com/photo-1573497019236-19a3b9c5bcae?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80',
+    image: 'https://images.unsplash.com/photo-1745480787959-31ee728557c4?q=80&w=3091&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     socialLinks: [
       { platform: 'LinkedIn', url: '#', icon: 'linkedin' },
       { platform: 'Email', url: '#', icon: 'email' },
-      { platform: 'Twitter', url: '#', icon: 'twitter' }
     ]
   },
   {
     id: 6,
     name: 'Shraddha Handa',
     role: 'Research Associate',
-    image: 'https://images.unsplash.com/photo-1534751516642-a1af1ef26a56?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80',
+    image: 'https://images.unsplash.com/photo-1745480220308-f8218ab8a98b?q=80&w=2944&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     socialLinks: [
       { platform: 'LinkedIn', url: '#', icon: 'linkedin' },
       { platform: 'Email', url: '#', icon: 'email' },
-      { platform: 'Twitter', url: '#', icon: 'twitter' }
     ]
   },
   {
     id: 7,
     name: 'Krishna Kumar',
     role: 'Postdoctoral Fellow',
-    image: 'https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80',
+    image: 'https://images.unsplash.com/photo-1745403106593-ef5a84d7e579?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     socialLinks: [
       { platform: 'LinkedIn', url: '#', icon: 'linkedin' },
       { platform: 'Email', url: '#', icon: 'email' },
-      { platform: 'Twitter', url: '#', icon: 'twitter' }
     ]
   },
   {
     id: 8,
     name: 'Arun Paulose',
     role: 'PhD Student',
-    image: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80',
+    image: 'https://images.unsplash.com/photo-1745404604457-67de9193db24?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     socialLinks: [
       { platform: 'LinkedIn', url: '#', icon: 'linkedin' },
       { platform: 'Email', url: '#', icon: 'email' },
-      { platform: 'Twitter', url: '#', icon: 'twitter' }
     ]
   },
   {
     id: 9,
     name: 'Mohit Khadia',
     role: 'Research Assistant',
-    image: 'https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80',
+    image: 'https://images.unsplash.com/photo-1745403052927-491f87254d9b?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     socialLinks: [
       { platform: 'LinkedIn', url: '#', icon: 'linkedin' },
       { platform: 'Email', url: '#', icon: 'email' },
@@ -93,22 +87,21 @@ export const currentMembers = [
     id: 10,
     name: 'Kaushlendra Mishra',
     role: 'PhD Student',
-    image: 'https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80',
+    image: 'https://images.unsplash.com/photo-1745481299259-8af4129784ad?q=80&w=2500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     socialLinks: [
       { platform: 'LinkedIn', url: '#', icon: 'linkedin' },
       { platform: 'Email', url: '#', icon: 'email' },
-      { platform: 'Twitter', url: '#', icon: 'twitter' }
     ]
   },
   {
     id: 11,
     name: 'Subhash Gujjar',
     role: 'Lab Technician',
-    image: 'https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80',
+    image: 'https://images.unsplash.com/photo-1745403299338-99ad305593bc?q=80&w=1934&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     socialLinks: [
       { platform: 'LinkedIn', url: '#', icon: 'linkedin' },
       { platform: 'Email', url: '#', icon: 'email' },
-      { platform: 'Twitter', url: '#', icon: 'twitter' }
+      // { platform: 'Twitter', url: '#', icon: 'twitter' }
     ]
   }
 ];

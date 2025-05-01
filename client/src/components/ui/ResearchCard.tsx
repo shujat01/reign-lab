@@ -16,7 +16,7 @@ const ResearchCard = ({ title, fullDescription, imageUrl, link }: ResearchCardPr
   return (
     <div className="bg-neutral-100 rounded-lg shadow-md overflow-hidden transition-all duration-300 ease-in-out">
       {/* ✅ Image at the top */}
-      <img src={imageUrl} alt={title} className="w-full h-80 object-cover" />
+      <img src={imageUrl} alt={title} className="w-full h-70 object-cover" />
 
       <div className="p-6">
         <h3 className="text-xl font-heading font-semibold mb-4">{title}</h3>
