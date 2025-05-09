@@ -26,8 +26,8 @@ const People = () => {
         collaborations, and high-impact scientific outcomes.
       </p>
       <div className="flex space-x-4 mt-4">
-        <a href="#" className="text-blue-600 hover:text-blue-800"><FaLinkedin size={20} /></a>
-        <a href="#" className="text-red-500 hover:text-red-700"><FaEnvelope size={20} /></a>
+        <a href="https://www.linkedin.com/in/aastha-mishra-2308186a/" className="text-blue-600 hover:text-blue-800"><FaLinkedin size={20} /></a>
+        <a href="mailto:aastha.mishra@igib.in" className="text-red-500 hover:text-red-700"><FaEnvelope size={20} /></a>
         <a href="#" className="text-blue-400 hover:text-blue-600"><FaTwitter size={20} /></a>
       </div>
     </div>

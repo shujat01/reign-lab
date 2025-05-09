@@ -4,104 +4,104 @@ export const currentMembers = [
   {
     id: 2,
     name: 'Manzoor Ali',
-    role: 'Research Fellow',
-    image: 'https://images.unsplash.com/photo-1745402867907-fbd24a8847f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    role: 'Research Scholar',
+    image: '/src/images/shujjad-ali-R67FwBOlvXw-unsplash.jpg',
     socialLinks: [
-      { platform: 'LinkedIn', url: '#', icon: 'linkedin' },
-      { platform: 'Email', url: '#', icon: 'email' },
+      { platform: 'LinkedIn', url: 'https://www.linkedin.com/in/manzooralirauf/', icon: 'linkedin' },
+      { platform: 'Email', url: 'mailto:raufali172@gmail.com', icon: 'email' },
      
     ]
   },
   {
     id: 3,
     name: 'Raushni Choudhary',
-    role: 'PhD Student',
-    image: 'https://images.unsplash.com/photo-1745480216244-0e560f0cbf43?q=80&w=3050&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    role: 'Research Scholar',
+    image: '/src/images/raushni.jpg',
     socialLinks: [
-      { platform: 'LinkedIn', url: '#', icon: 'linkedin' },
-      { platform: 'Email', url: '#', icon: 'email' },
+      { platform: 'LinkedIn', url: 'https://www.linkedin.com/in/raushni-choudhary-917b99175/', icon: 'linkedin' },
+      { platform: 'Email', url: 'mailto:raushnichoudhary@gmail.com', icon: 'email' },
     ]
   },
   {
     id: 4,
     name: 'Swati Kumari',
-    role: 'Research Assistant',
-    image: 'https://images.unsplash.com/photo-1745403302913-5f8993d589d0?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    role: 'Research Scholar',
+    image: '/src/images/swati.jpg',
     socialLinks: [
-      { platform: 'LinkedIn', url: '#', icon: 'linkedin' },
-      { platform: 'Email', url: '#', icon: 'email' },
+      { platform: 'LinkedIn', url: 'https://www.linkedin.com/in/swati-kumari-257a05112', icon: 'linkedin' },
+      { platform: 'Email', url: 'mailto:kswati503@gmail.com', icon: 'email' },
     ]
   },
   {
     id: 5,
     name: 'Kanika Singh',
-    role: 'PhD Student',
-    image: 'https://images.unsplash.com/photo-1745480787959-31ee728557c4?q=80&w=3091&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    role: 'Research Scholar',
+    image: '/src/images/kanika.jpg',
     socialLinks: [
-      { platform: 'LinkedIn', url: '#', icon: 'linkedin' },
-      { platform: 'Email', url: '#', icon: 'email' },
+      { platform: 'LinkedIn', url: 'https://www.linkedin.com/in/kanika-singh-14a402325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app', icon: 'linkedin' },
+      { platform: 'Email', url: 'mailto:kanika0298@gmail.com', icon: 'email' },
     ]
   },
   {
     id: 6,
     name: 'Shraddha Handa',
-    role: 'Research Associate',
-    image: 'https://images.unsplash.com/photo-1745480220308-f8218ab8a98b?q=80&w=2944&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    role: 'Research Scholar',
+    image: '/src/images/shraddha.jpg',
     socialLinks: [
-      { platform: 'LinkedIn', url: '#', icon: 'linkedin' },
-      { platform: 'Email', url: '#', icon: 'email' },
+      { platform: 'LinkedIn', url: 'https://www.linkedin.com/in/shraddha-handa-5254031b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app', icon: 'linkedin' },
+      { platform: 'Email', url: 'mailto:hraddha143handa@gmail.com', icon: 'email' },
     ]
   },
   {
     id: 7,
     name: 'Krishna Kumar',
-    role: 'Postdoctoral Fellow',
-    image: 'https://images.unsplash.com/photo-1745403106593-ef5a84d7e579?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    role: 'Research Scholar',
+    image: '/src/images/krishna.jpg',
     socialLinks: [
-      { platform: 'LinkedIn', url: '#', icon: 'linkedin' },
+      { platform: 'LinkedIn', url: 'https://www.linkedin.com/in/krishna-kumar-g-305073364/', icon: 'linkedin' },
       { platform: 'Email', url: '#', icon: 'email' },
     ]
   },
   {
     id: 8,
     name: 'Arun Paulose',
-    role: 'PhD Student',
-    image: 'https://images.unsplash.com/photo-1745404604457-67de9193db24?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    role: 'Project Associate I',
+    image: '/src/images/arun.jpg',
     socialLinks: [
-      { platform: 'LinkedIn', url: '#', icon: 'linkedin' },
-      { platform: 'Email', url: '#', icon: 'email' },
+      { platform: 'LinkedIn', url: 'https://www.linkedin.com/in/arun-paulose-08apr1998/', icon: 'linkedin' },
+      { platform: 'Email', url: 'mailto:arunpaulose008@gmail.com', icon: 'email' },
     ]
   },
   {
     id: 9,
     name: 'Mohit Khadia',
-    role: 'Research Assistant',
-    image: 'https://images.unsplash.com/photo-1745403052927-491f87254d9b?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    role: 'Project Associate I',
+    image: '/src/images/mohit.jpg',
     socialLinks: [
-      { platform: 'LinkedIn', url: '#', icon: 'linkedin' },
-      { platform: 'Email', url: '#', icon: 'email' },
-      { platform: 'Twitter', url: '#', icon: 'twitter' }
+      { platform: 'LinkedIn', url: 'https://www.linkedin.com/in/mohit-khadia-b28ab11aa/', icon: 'linkedin' },
+      { platform: 'Email', url: 'mailto:mohit08khadia@gmail.com', icon: 'email' },
+      // { platform: 'Twitter', url: '#', icon: 'twitter' }
     ]
   },
   {
     id: 10,
     name: 'Kaushlendra Mishra',
-    role: 'PhD Student',
-    image: 'https://images.unsplash.com/photo-1745481299259-8af4129784ad?q=80&w=2500&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    role: 'Project Associate I',
+    image: '/src/images/kaushal2.jpg',
     socialLinks: [
-      { platform: 'LinkedIn', url: '#', icon: 'linkedin' },
-      { platform: 'Email', url: '#', icon: 'email' },
+      { platform: 'LinkedIn', url: 'https://www.linkedin.com/in/kaushlendra-mishra-90636b205', icon: 'linkedin' },
+      { platform: 'Email', url: 'mailto:kaushlendra242401@gmail.com', icon: 'email' },
     ]
   },
   {
     id: 11,
     name: 'Subhash Gujjar',
-    role: 'Lab Technician',
-    image: 'https://images.unsplash.com/photo-1745403299338-99ad305593bc?q=80&w=1934&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    role: 'Project Assistant II',
+    image: '/src/images/subash.jpg',
     socialLinks: [
       { platform: 'LinkedIn', url: '#', icon: 'linkedin' },
       { platform: 'Email', url: '#', icon: 'email' },
-      // { platform: 'Twitter', url: '#', icon: 'twitter' }
+      // { platform: 'Twitter', url: '#', icon: 'twitter'}
     ]
   }
 ];
