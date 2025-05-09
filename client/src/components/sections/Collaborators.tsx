@@ -2,24 +2,21 @@ const collaborators = [
   { id: 1, name: 'Partner 1' },
   { id: 2, name: 'Partner 2' },
   { id: 3, name: 'Partner 3' },
-  { id: 4, name: 'Partner 4' }
 ];
 
 const fundingSources = [
   {
     id: 1,
-    name: 'Department of Biotechnology (DBT)',
-    grantNumber: 'BT/PR12345/MED/31/789/2021'
+    name: 'Council of Scientific and Industrial Research(CSIR)',
+    // grantNumber: 'BT/PR12345/MED/31/789/2021'
   },
   {
     id: 2,
     name: 'Indian Council of Medical Research (ICMR)',
-    grantNumber: 'ICMR/2022/HYP/001'
   },
   {
     id: 3,
     name: 'Science and Engineering Research Board (SERB)',
-    grantNumber: 'CRG/2023/456789'
   }
 ];
 
@@ -31,7 +28,7 @@ const Collaborators = () => {
         
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
           {/* Collaborators */}
-          <div>
+          {/* <div>
             <h3 className="text-2xl font-heading font-semibold mb-6">Research Collaborators</h3>
             <div className="bg-white p-6 rounded-lg shadow-sm">
               <div className="flex flex-wrap gap-6 justify-center">
@@ -45,7 +42,7 @@ const Collaborators = () => {
                 ))}
               </div>
             </div>
-          </div>
+          </div> */}
           
           {/* Funding Sources */}
           <div>
@@ -57,7 +54,7 @@ const Collaborators = () => {
                     <i className="fas fa-award text-primary mt-1 mr-3"></i>
                     <div>
                       <p className="font-medium">{source.name}</p>
-                      <p className="text-sm text-neutral-600">Grant: {source.grantNumber}</p>
+                      {/* <p className="text-sm text-neutral-600">Grant: {source.grantNumber}</p> */}
                     </div>
                   </li>
                 ))}
