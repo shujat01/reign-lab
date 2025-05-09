@@ -5,7 +5,7 @@ export const currentMembers = [
     id: 2,
     name: 'Manzoor Ali',
     role: 'Research Scholar',
-    image: '/src/images/shujjad-ali-R67FwBOlvXw-unsplash.jpg',
+    image: '/src/images/manzoor.jpg',
     socialLinks: [
       { platform: 'LinkedIn', url: 'https://www.linkedin.com/in/manzooralirauf/', icon: 'linkedin' },
       { platform: 'Email', url: 'mailto:raufali172@gmail.com', icon: 'email' },
