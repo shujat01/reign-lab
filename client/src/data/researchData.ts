@@ -25,7 +25,7 @@
       title: 'Decoding the Genetics of Cardiovascular Diseases: From Discovery to Beyond',
       fullDescription: `Cardiovascular diseases (CVD) remain a leading cause of mortality, with sudden cardiac death (SCD) affecting even young, seemingly healthy individuals. Many SCD cases arise from Cardiac Channelopathies, where genetic mutations, inherited or de novo, disrupt the heart rhythm. Our lab focuses on the identification of a significant number of variants that are unique to the Indian population by establishing genotype-phenotype correlations. Our ultimate goal is to transform genetic insights into actionable strategies, paving the way for early diagnosis, targeted therapies, and the prevention of sudden cardiac death in at-risk individuals.`,
       link: '#',
-      image: ''
+      image: '/src/images/Website_CC_SH.jpg'
     },
     {
       id: 4,
