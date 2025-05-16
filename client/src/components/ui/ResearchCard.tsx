@@ -27,7 +27,7 @@ const ResearchCard = ({ title, fullDescription, imageUrl, link }: ResearchCardPr
             expanded ? 'max-h-96' : 'max-h-0'
           }`}
         >
-          <p className="mt-4 mb-6 whitespace-pre-line text-neutral-600 border-l-4 border-primary-light pl-4">
+          <p className="mt-4 mb-6 whitespace-pre-line text-neutral-600 border-l-4 border-primary-light pl-4 text-justify">
             {fullDescription}
           </p>
         </div>

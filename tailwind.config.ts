@@ -93,7 +93,10 @@ export default {
         "accordion-up": "accordion-up 0.2s ease-out",
         "fadeIn": "fade-in 0.3s ease-in-out",
       },
+  
     },
   },
+
+  
   plugins: [require("tailwindcss-animate"), require("@tailwindcss/typography")],
 } satisfies Config;
